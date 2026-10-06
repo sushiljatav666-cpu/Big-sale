@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+shop.db
+shop.db-shm
+shop.db-wal
+*.log
+.DS_Store
